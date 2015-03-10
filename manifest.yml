@@ -3,3 +3,4 @@ applications:
 - name: testgo
   memory: 512M
   host: testgo
+  command: ./testgo
